@@ -1,5 +1,5 @@
 # 4RAP.CZ
-No bulsit, only data.
+No bulshit, only data.
 
 ## Databáze českéhe rapu
 ### Rapeři
